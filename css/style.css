@@ -5,3 +5,11 @@ body{
 div{
 text-align: center;
 }
+
+footer {
+    display: block;
+    text-align: center;
+    padding: 3px;
+    background-color: #1abc9c;
+    color: white;
+  }
